@@ -6,7 +6,14 @@ namespace unit_testing
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            try
+            {
+                SimpleParserTests.TestReturnsZeroWhenEmptyString();
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e);
+            }
         }
     }
 }

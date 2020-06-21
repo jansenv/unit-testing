@@ -1,0 +1,13 @@
+/home/jansenv/workspace/unit-testing/bin/Debug/netcoreapp3.1/unit-testing
+/home/jansenv/workspace/unit-testing/bin/Debug/netcoreapp3.1/unit-testing.deps.json
+/home/jansenv/workspace/unit-testing/bin/Debug/netcoreapp3.1/unit-testing.runtimeconfig.json
+/home/jansenv/workspace/unit-testing/bin/Debug/netcoreapp3.1/unit-testing.runtimeconfig.dev.json
+/home/jansenv/workspace/unit-testing/bin/Debug/netcoreapp3.1/unit-testing.dll
+/home/jansenv/workspace/unit-testing/bin/Debug/netcoreapp3.1/unit-testing.pdb
+/home/jansenv/workspace/unit-testing/obj/Debug/netcoreapp3.1/unit-testing.csprojAssemblyReference.cache
+/home/jansenv/workspace/unit-testing/obj/Debug/netcoreapp3.1/unit-testing.AssemblyInfoInputs.cache
+/home/jansenv/workspace/unit-testing/obj/Debug/netcoreapp3.1/unit-testing.AssemblyInfo.cs
+/home/jansenv/workspace/unit-testing/obj/Debug/netcoreapp3.1/unit-testing.csproj.CoreCompileInputs.cache
+/home/jansenv/workspace/unit-testing/obj/Debug/netcoreapp3.1/unit-testing.dll
+/home/jansenv/workspace/unit-testing/obj/Debug/netcoreapp3.1/unit-testing.pdb
+/home/jansenv/workspace/unit-testing/obj/Debug/netcoreapp3.1/unit-testing.genruntimeconfig.cache
